@@ -1,3 +1,5 @@
 [user]
   email = hidekazuna@gmail.com
   name = Hidekazu Nakamura
+[core]
+  editor = vi
